@@ -1,0 +1,11 @@
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\bin\Debug\Launcher.exe.config
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\bin\Debug\Launcher.exe
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\bin\Debug\Launcher.pdb
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\bin\Debug\API.dll
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\bin\Debug\API.pdb
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\obj\Debug\Launcher.Form1.resources
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\obj\Debug\Launcher.csproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\obj\Debug\Launcher.exe
+d:\documents\visual studio 2017\Projects\NoobCoreAPI\Launcher\obj\Debug\Launcher.pdb
